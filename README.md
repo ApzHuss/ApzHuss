@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apz </h1> <p align="left"> 
-<a href="https://git.io/typing-svg"><img src="https://apzhuss.github.io/My-first-Portfolio/" alt="Typing SVG" /></a>
+<a href="https://git.apzHuss/typing-svg"><img src="" alt="Typing SVG" /></a>
 
 <div>
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="320" />
@@ -11,7 +11,7 @@
 🌱 I am deepening my understanding of **python by exploring its advanced**<br><br>-
 👯 I’m looking to collaborate on **by Remote based projects**<br><br>-
 🤝 I’m looking for help with **Improving my knowledge and skills in advanced web development**<br><br>-
-👨‍💻 my first portfolio https://apzhuss.github.io/My-first-Portfolio/..<br><br>-
+👨‍💻 my first portfolio..<br><br>-
 💬 Ask me about **My experience with front-end development**<br><br>-
 📫 How to reach me **azalaamhuss@gmail.com**
 
