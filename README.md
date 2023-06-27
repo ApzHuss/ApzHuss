@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apz </h1> <p align="left"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=ECBEF0&width=435&lines=Nice+to+meet+you...;Full-stack+developer;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://apzhuss.github.io/B-College/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=ECBEF0&width=435&lines=Nice+to+meet+you...;Full-stack+developer;Always+learning+new+things" alt="Typing SVG" /></a>
 
 <div>
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="320" />
