@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apz </h1> <p align="left"> 
-<a href="https://git.apzHuss/typing-svg"><img src="" alt="Typing SVG" /></a>
+<a href=""><img src="" alt="Typing SVG" /></a>
 
 <div>
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="320" />
