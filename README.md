@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Apz </h1> <p align="left"> 
-<a href="https://apzhuss.github.io/B-College/"><img src="https://apzhuss.github.io/My-first-Portfolio/" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://apzhuss.github.io/My-first-Portfolio/" alt="Typing SVG" /></a>
 
 <div>
-  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="320" />
+  <img align="center" alt="GIF" src="https://apzhuss.github.io/My-first-Portfolio/" width="900" height="320" />
 </div>
   
 <h3 align="center">I'm Front-End developer from Somalia</h3>
