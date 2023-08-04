@@ -5,9 +5,9 @@ My Portfolio : {///}
 
 <div>
   <a href=""><img align="center" alt="GIF" src="https://github.com/ApzHuss/css-Assignment/blob/main/5.png?raw=true" width="900" height="320" /></a>a>
-</div>>
+</div>
   
-<h3 align="center">I'm Front-End developer from Somalia</h3>
+<h3 align="center">I'm A Fullstack developer from Somalia</h3>
 
 🔭 I’m currently working on front-end project<br><br>-
 🌱 I am deepening my understanding of **python by exploring its advanced**<br><br>-
