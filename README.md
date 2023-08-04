@@ -4,7 +4,7 @@ I'm A Fullstack Developer Who Is Passionate About Making Fully Responsive Websit
 My Portfolio : {///}
 
 <div>
-  <img align="center" alt="GIF" src="C:\Users\muraadso\Pictures\Saved Pictures\ss.gif" width="900" height="320" />
+  <img align="center" alt="GIF" src="" width="900" height="320" />
 </div>>
   
 <h3 align="center">I'm Front-End developer from Somalia</h3>
