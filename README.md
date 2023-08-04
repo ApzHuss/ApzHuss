@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Apz </h1> <p align="left"> 
+<h1 align="center">Hi 👋, I'm Apz </h1> <p align="left">
+  Hi Everyone, I Am Apdoulzalaam Hussein Abdi From Somalia , Hargaisa.
+I'm A Front End Web Developer Who Is Passionate About Making Fully Responsive Websites With 100% Client Satisfaction. I Love To Solve Real-World Problems. I Have A Passion For Learning About New Topics Which Increase Work Efficiency Better Day By Day. I'm Strategic, Goal-Oriented & Always Work With An End Goal In Mind. Over The Past Years, I Created Many Websites & Gain Valuable Real-World Problem-Solving Experience. Most Of The Time I Work With HTML, CSS, JS & Alongside React (SPA).
 <a href=""><img src="" alt="Typing SVG" /></a>
 
 <div>
