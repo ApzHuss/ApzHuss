@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Apz </h1> <p align="left">
   Hi Everyone, I Am Apdoulzalaam Hussein Abdi From Somalia , Hargaisa.
-I'm A Front End Web Developer Who Is Passionate About Making Fully Responsive Websites With 100% Client Satisfaction. I Love To Solve Real-World Problems. I Have A Passion For Learning About New Topics Which Increase Work Efficiency Better Day By Day. I'm Strategic, Goal-Oriented & Always Work With An End Goal In Mind. Over The Past Years, I Created Many Websites & Gain Valuable Real-World Problem-Solving Experience. Most Of The Time I Work With HTML, CSS, JS & Alongside React (SPA).
-My Portfolio
+I'm A Fullstack Developer Who Is Passionate About Making Fully Responsive Websites And Data scientist With 100% Client Satisfaction. I Love To Solve Real-World Problems. I Have A Passion For Learning About New Topics Which Increase Work Efficiency Better Day By Day. I'm Strategic, Goal-Oriented & Always Work With An End Goal In Mind. Over The Past Years, I Created Many Websites & Gain Valuable Real-World Problem-Solving Experience. Most Of The Time I Work With HTML, CSS, JS & Alongside React (SPA) And Ruby and Rails
+My Portfolio : {///}
 
 <div>
-  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="320" />
+  <img align="center" alt="GIF" src="C:\Users\muraadso\Pictures\Saved Pictures\ss.gif" width="900" height="320" />
 </div>>
   
 <h3 align="center">I'm Front-End developer from Somalia</h3>
