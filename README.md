@@ -4,7 +4,7 @@ I'm A Fullstack Developer Who Is Passionate About Making Fully Responsive Websit
 My Portfolio : {///}
 
 <div>
-  <a href=""><img align="center" alt="GIF" src="https://github.com/ApzHuss/css-Assignment/blob/main/5.png?raw=true" width="900" height="320" /></a>a>
+  <a href=""><img align="center" alt="GIF" src="https://github.com/ApzHuss/ApzHuss/blob/main/Fullstack%20Developer.png?raw=true" width="900" height="320" /></a>a>
 </div>
   
 <h3 align="center">I'm A Fullstack developer from Somalia</h3>
