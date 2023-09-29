@@ -4,17 +4,12 @@ I'm A Fullstack Developer Who Is Passionate About Making Fully Responsive Websit
 My Portfolio : {///}
 
 <div>
-  <a href=""><img align="center" alt="GIF" src="https://github.com/ApzHuss/ApzHuss/blob/main/Fullstack%20Developer.png?raw=true" width="900" height="320" /></a>a>
 </div>
   
 <h3 align="center">I'm A Fullstack developer from Somalia</h3>
 
-🔭 I’m currently working on front-end project<br><br>-
-🌱 I am deepening my understanding of **python by exploring its advanced**<br><br>-
-👯 I’m looking to collaborate on **by Remote based projects**<br><br>-
-🤝 I’m looking for help with **Improving my knowledge and skills in advanced web development**<br><br>-
-👨‍💻 my first portfolio..<br><br>-
-💬 Ask me about **My experience with front-end development**<br><br>-
+🔭 I’m currently working on front-end project..
+👨‍💻 More Info About Me at. 
 📫 How to reach me **azalaamhuss@gmail.com**
 
 ## 🌐 Socials:
