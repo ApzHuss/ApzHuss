@@ -9,7 +9,7 @@ My Portfolio : {///}
 <h3 align="center">I'm A Fullstack developer from Somalia</h3>
 
 🔭 I’m currently working on front-end project..<br><br>
-👨‍💻 More Info About Me at. 
+👨‍💻 More Info About Me at. <br><br>
 📫 How to reach me **azalaamhuss@gmail.com**
 
 ## 🌐 Socials:
