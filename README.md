@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Apz </h1> <p align="left">
+<h1 align="center">Hi 👋, I'm Apzhuss </h1> <p align="left">
   Hi Everyone, I Am Apdoulzalaam Hussein Abdi From Somalia , Hargaisa.
-I'm A Fullstack Developer Who Is Passionate About Making Fully Responsive Websites And Data scientist With 100% Client Satisfaction. I Love To Solve Real-World Problems. I Have A Passion For Learning About New Topics Which Increase Work Efficiency Better Day By Day. I'm Strategic, Goal-Oriented & Always Work With An End Goal In Mind. Over The Past Years, I Created Many Websites & Gain Valuable Real-World Problem-Solving Experience. Most Of The Time I Work With HTML, CSS, JS & Alongside React (SPA) And Ruby and Rails
-My Portfolio : {///}
+  
+I'm A Fullstack Developer Who Is Passionate About Making Fully Responsive Websites And Data scientist With 100% Client Satisfaction. 
+I Love To Solve Real-World Problems. I Have A Passion For Learning About New Topics Which Increase Work Efficiency Better Day By Day.
+
+I'm Strategic, Goal-Oriented & Always Work With An End Goal In Mind. Over The Past Years, I Created Many Websites & Gain Valuable Real-World Problem-Solving Experience. 
+Most Of The Time I Work With HTML, CSS, JS & Alongside Python.
 
 <div>
 </div>
