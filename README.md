@@ -10,4 +10,4 @@ I’m deeply engaged in the React ecosystem and enjoy helping developers grow th
 ## Find me around the web 🌎: 
 
 - Explore interactive experiments and personal projects on my <a href="#">Portfolio</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/abdisalaan-hussein-abdi-34057436b">LnkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/abdisalaan-hussein-abdi-34057436b">LinkedIn</a> 💼
