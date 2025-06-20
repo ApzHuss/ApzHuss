@@ -7,15 +7,17 @@ I'm a software engineer passionate about making open-source contributions more a
 In 2020, I was honored to be selected as an inaugural member of the <a href="https://stars.github.com/">GitHub Stars Program 🌟</a> in recognition of my contributions to the tech community and open-source development. I’m deeply engaged in the React ecosystem and enjoy helping developers grow through live coding sessions, knowledge-sharing, and collaborative learning experiences.
 
 🧰 Tech Stack & Tools
+
 💻 Languages: JavaScript (ES6+), TypeScript, Python
 
-🧠 Frameworks/Libraries: React, Next.js, Node.js, Express
+🧠 Frameworks/Libraries: React, NextJS, Nodejs, Expressjs
 
 🔧 Tools: Git, MongoDB, Firebase, VS Code, Tailwind CSS
 
 🚀 Platforms: GitHub, Vercel, Netlify, MongoDB Atlas
 
 💼 Highlights
+
 🌟 GitHub Star – Recognized for impactful contributions to open-source and developer education
 
 🧩 Open-source advocate – Contributor and maintainer on several community-driven projects
