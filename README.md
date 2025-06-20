@@ -1,54 +1,7 @@
-<h1 align="left">Hi, I'm Abdisalaan 👋🏾 👩🏾‍💻 </h1> <p align="left">
+# Hi, I'm Abdisalaan H. Abdi 👋🏾 👩🏾‍💻
 
-Hi Everyone, I Am Apdoulzalaam Hussein Abdi From Somalia , Hargaisa.
-  
-I'm A Fullstack Developer Who Is Passionate About Making Fully Responsive Websites And Data scientist With 100% Client Satisfaction. 
-I Love To Solve Real-World Problems. I Have A Passion For Learning About New Topics Which Increase Work Efficiency Better Day By Day.
 
-I'm Strategic, Goal-Oriented & Always Work With An End Goal In Mind. Over The Past Years, I Created Many Websites & Gain Valuable Real-World Problem-Solving Experience. 
-Most Of The Time I Work With HTML, CSS, JS & Alongside Python.
+## Find me around the web 🌎: 
 
-<div>
-</div>
-  
-<h3 align="center">I'm A Fullstack developer from Somalia</h3>
 
-🔭 I’m currently working on front-end project..<br><br>
-👨‍💻 More Info About Me at. <br><br>
-📫 How to reach me **azalaamhuss@gmail.com**
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/apdoul-zalam-9a82b426b/)
-
-# 💻 Tech Stack:
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=ApzHuss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ApzHuss&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ApzHuss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=ApzHuss&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=ApzHuss&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 💰 You can help me by Donating
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/azalaamhuss@gmail.com)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Sharing updates on <a href="www.linkedin.com/in/abdisalaan-hussein-abdi-34057436b">LinkedIn</a> 💼
