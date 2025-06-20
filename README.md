@@ -30,4 +30,4 @@ In 2020, I was honored to be selected as an inaugural member of the <a href="htt
 ## Find me around the web 🌎: 
 
 - Explore interactive experiments and personal projects on my <a href="#">Portfolio</a> 🏓
-- Sharing updates on<a href="https://www.linkedin.com/in/abdisalaan-hussein-abdi-34057436b">LnkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/abdisalaan-hussein-abdi-34057436b">LnkedIn</a> 💼
