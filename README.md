@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Apzhuss </h1> <p align="left">
-  Hi Everyone, I Am Apdoulzalaam Hussein Abdi From Somalia , Hargaisa.
+<h1 align="left">Hi, I'm Abdisalaan 👋🏾 👩🏾‍💻 </h1> <p align="left">
+
+Hi Everyone, I Am Apdoulzalaam Hussein Abdi From Somalia , Hargaisa.
   
 I'm A Fullstack Developer Who Is Passionate About Making Fully Responsive Websites And Data scientist With 100% Client Satisfaction. 
 I Love To Solve Real-World Problems. I Have A Passion For Learning About New Topics Which Increase Work Efficiency Better Day By Day.
