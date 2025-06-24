@@ -6,6 +6,17 @@ I'm a software engineer passionate about making open-source contributions more a
 
 I’m deeply engaged in the React ecosystem and enjoy helping developers grow through live coding sessions, knowledge-sharing, and collaborative learning experiences.
 
+### Tecnologias com que trabalho:
+
+```json
+{
+  "frontend": ["typescript", "react", "next.js", "css|tailwindcss|mui", "storybook"],
+  "backend": ["typescript", "nodejs", "Firebase", "mongodb|postgres|prisma"],
+  "ops@alpha": ["linux", "bash|zx", "docker", "pm2", "CI/CD", "ssh", "zsh", "git"],
+}
+```
+
+
 
 ## Find me around the web 🌎: 
 
