@@ -1,4 +1,4 @@
-# Hi, I'm Abdissalaan H. Abdi 👋🏾 
+# Hi, I'm Abdisalaan H. Abdi 👋🏾 
 
 <img src="https://raw.githubusercontent.com/ApzHuss/ApzHuss/refs/heads/main/cover.png" alt="banner that says APZHUSS - software engineer, content creator and community organizer alongside a cartoon illustration of APZ.">
 
