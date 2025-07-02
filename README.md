@@ -11,7 +11,7 @@ I’m deeply engaged in the React ecosystem and enjoy helping developers grow th
 ```json
 {
   "Languages & Frameworks": ["JavaScript (ES6+)", "Typescript", "React", "Next.js"],
-  "Styling & Design: ["CSS3", "SASS (SCSS)", "Tailwind CSS", "Figma",] 
+  "Styling & Design": ["CSS3", "SASS (SCSS)", "Tailwind CSS", "Figma"], 
   "Backend & Tool": ["Node.js", "Express", "Supabase", "MongoDB", "Git"],
   "Testing & QA": ["Jest"],
 }
@@ -19,7 +19,7 @@ I’m deeply engaged in the React ecosystem and enjoy helping developers grow th
 
 ## 🚀 Featured Projects
 
-- **Coming soon ** 
+- Coming soon... 
 
 ---
 
