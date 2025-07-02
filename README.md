@@ -10,15 +10,25 @@ I’m deeply engaged in the React ecosystem and enjoy helping developers grow th
 
 ```json
 {
-  "frontend": ["typescript", "react", "next.js", "css|tailwindcss|mui", "storybook"],
-  "backend": ["typescript", "nodejs", "Firebase", "mongodb|postgres|prisma"],
-  "ops@alpha": ["linux", "bash|zx", "docker", "pm2", "CI/CD", "ssh", "zsh", "git"],
+  "Languages & Frameworks": ["JavaScript (ES6+)", "Typescript", "React", "Next.js"],
+  "Styling & Design: ["CSS3", "SASS (SCSS)", "Tailwind CSS", "Figma",] 
+  "Backend & Tool": ["Node.js", "Express", "Supabase", "MongoDB", "Git"],
+  "Testing & QA": ["Jest"],
 }
 ```
 
+## 🚀 Featured Projects
 
+- **Coming soon ** 
 
-## Find me around the web 🌎: 
+---
 
-- Explore interactive experiments and personal projects on my <a href="#">Portfolio</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/abdisalaan-hussein-abdi-34057436b">LinkedIn</a> 💼
+## 📫 Let’s Connect
+
+| 🌐 Website | 💼 LinkedIn | | 🐙 GitHub | 📧 Email |
+| :----------: | :--------: | :--------: | :-------: | :------: |
+| [Apzhuss.com](#) | [in/Abdisalaan H. Abdi](https://www.linkedin.com/in/abdisalaan-hussein-abdi-34057436b/) | | [@Apzhuss](https://github.com/ApzHuss/ApzHuss) | [azalaamhuss.com@gmail.com](mailto:azalaamhuss@gmail.com) 
+
+---
+
+> *See you around!*
