@@ -33,7 +33,7 @@ I’m deeply engaged in the React ecosystem and enjoy helping developers grow th
 
 | 🌐 Website | 💼 LinkedIn | | 🐙 GitHub | 📧 Email |
 | :----------: | :--------: | :--------: | :-------: | :------: |
-| [Apzhuss.com](#) | [in/Abdisalaan H. Abdi](https://www.linkedin.com/in/abdisalaan-hussein-abdi-34057436b/) | | [@Apzhuss](https://apzhussdev.vercel.app/) | [azalaamhuss.com@gmail.com](mailto:azalaamhuss@gamail.com) 
+| [Apzhuss.dev](https://apzhussdev.vercel.app/) | [in/Abdisalaan H. Abdi](https://www.linkedin.com/in/abdisalaan-hussein-abdi-34057436b/) | | [@Apzhuss](https://github.com/ApzHuss/) | [azalaamhuss.com@gmail.com](mailto:azalaamhuss@gamail.com) 
 
 ---
 
