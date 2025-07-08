@@ -15,7 +15,7 @@ I’m deeply engaged in the React ecosystem and enjoy helping developers grow th
 {
   "Languages & Frameworks": ["JavaScript (ES6+)", "Typescript", "React", "Next.js"],
   "Styling & Design": ["CSS3", "SASS (SCSS)", "Tailwind CSS", "Figma"], 
-  "Backend & Tool": ["Node.js", "Express", "Supabase", "MongoDB", "Git"],
+  "Backend & Tool": ["Node.js", "Express", "Supabase", "MongoDB", "PrismaORM" "Git"],
   "Testing & QA": ["Jest"],
 }
 ```
