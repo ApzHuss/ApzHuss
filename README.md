@@ -1,6 +1,6 @@
 # Hi, I'm Abdisalaan H. Abdi 👋🏾 
 
-<img src="https://raw.githubusercontent.com/ApzHuss/ApzHuss/refs/heads/main/cover.png" alt="banner that says APZHUSS - software engineer, content creator and community organizer alongside a cartoon illustration of APZ.">
+<img src="https://github.com/ApzHuss/ApzHuss/blob/main/Assets/cover.png?raw=true" alt="banner that says APZHUSS - software engineer, content creator and community organizer alongside a cartoon illustration of APZ.">
 
 I'm a software engineer passionate about making open-source contributions more approachable, building inclusive technology, and fostering strong developer communities. My work is centered around empowering others through code, collaboration, and mentorship.
 
@@ -38,3 +38,4 @@ I’m deeply engaged in the React ecosystem and enjoy helping developers grow th
 ---
 
 > *See you around!*
+
