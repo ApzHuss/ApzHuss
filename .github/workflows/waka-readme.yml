@@ -3,12 +3,12 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
+    - cron: '0 0 * * *'
 
 jobs:
   update-waka-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@v2
+      - uses: athul/waka-readme@v2.0.3
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
