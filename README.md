@@ -2,10 +2,7 @@
 
 <img src="https://github.com/ApzHuss/ApzHuss/blob/main/Assets/cover.png?raw=true" alt="banner that says APZHUSS - software engineer, content creator and community organizer alongside a cartoon illustration of APZ.">
 
----
-
 ## Dev Toolkit
-
 - **Frontend:** React, Next.js, TailwindCSS, TypeScript
 - **Backend:** Node.js, MongoDB, Auth0, Jest
 - **Deployment:** AWS, Github Actions, Sentry
@@ -25,3 +22,4 @@ main
 ---
 
 > *See you around!*
+
