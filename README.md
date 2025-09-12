@@ -8,7 +8,6 @@ I’m deeply engaged in the React ecosystem and enjoy helping developers grow th
 
 ---
 
-
 ### Technologies I work with:
 
 ```json
