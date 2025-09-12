@@ -2,40 +2,28 @@
 
 <img src="https://github.com/ApzHuss/ApzHuss/blob/main/Assets/cover.png?raw=true" alt="banner that says APZHUSS - software engineer, content creator and community organizer alongside a cartoon illustration of APZ.">
 
-I'm a software engineer passionate about making open-source contributions more approachable, building inclusive technology, and fostering strong developer communities. My work is centered around empowering others through code, collaboration, and mentorship.
-
-I’m deeply engaged in the React ecosystem and enjoy helping developers grow through live coding sessions, knowledge-sharing, and collaborative learning experiences.
-
 ---
 
+### Dev Toolkit:
 
-### Technologies I work with:
-
-```json
-{
-  "Languages & Frameworks": ["JavaScript (ES6+)", "Typescript", "React", "Next.js"],
-  "Styling & Design": ["CSS3", "SASS (SCSS)", "Tailwind CSS", "Figma"], 
-  "Backend & Tool": ["Node.js", "Express", "Supabase", "MongoDB", "PrismaORM" "Git"],
-  "Testing & QA": ["Jest"],
-}
-```
-
----
+- **Frontend:** React, Next.js, TailwindCSS, TypeScript
+- **Backend:** Node.js, MongoDB, Auth0, Jest
+- **Deployment:** AWS, Github Actions, Sentry
 
 
 ## 🚀 Featured Projects
 
-- Coming soon... 
+*(Highlighted repositories and open-source contributions will be showcased here.)*
 
----
 
 ## 📫 Let’s Connect
 
-| 🌐 Website | 💼 LinkedIn | | 🐙 GitHub | 📧 Email |
-| :----------: | :--------: | :--------: | :-------: | :------: |
-| [Apzhuss.dev](https://404/) | [in/Abdisalaan H. Abdi](https://www.linkedin.com/in/abdisalaan-hussein-abdi-34057436b/) | | [@Apzhuss](https://github.com/ApzHuss/) | [azalaamhuss.com@gmail.com](mailto:azalaamhuss@gamail.com) 
-
+- 🌐 **Website:** [apzhuss.dev](https://404/)
+- 💼 **LinkedIn:** [Abdisalaan H. Abdi](https://www.linkedin.com/in/abdisalaan-hussein-abdi-34057436b/)
+- 🐙 **GitHub:** [@ApzHuss](https://github.com/ApzHuss/)
+- 📧 **Email:** [azalaamhuss.com@gmail.com](mailto:azalaamhuss.com@gmail.com)
 ---
 
 > *See you around!*
+
 
