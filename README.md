@@ -18,12 +18,13 @@
 
 ## 📫 Let’s Connect
 
-- 🌐 **Website:** [apzhuss.dev](https://404/)
-- 💼 **LinkedIn:** [Abdisalaan H. Abdi](https://www.linkedin.com/in/abdisalaan-hussein-abdi-34057436b/)
-- 🐙 **GitHub:** [@ApzHuss](https://github.com/ApzHuss/)
-- 📧 **Email:** [azalaamhuss.com@gmail.com](mailto:azalaamhuss.com@gmail.com)
+🌐 **Website:** [apzhuss.dev](https://404/)
+💼 **LinkedIn:** [Abdisalaan H. Abdi](https://www.linkedin.com/in/abdisalaan-hussein-abdi-34057436b/)
+🐙 **GitHub:** [@ApzHuss](https://github.com/ApzHuss/)
+📧 **Email:** [azalaamhuss.com@gmail.com](mailto:azalaamhuss.com@gmail.com)
 ---
 
 > *See you around!*
+
 
 
