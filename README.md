@@ -9,6 +9,7 @@
 - **Frontend:** React, Next.js, TailwindCSS, TypeScript
 - **Backend:** Node.js, MongoDB, Auth0, Jest
 - **Deployment:** AWS, Github Actions, Sentry
+main
 
 
 ## 🚀 Featured Projects
