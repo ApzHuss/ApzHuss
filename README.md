@@ -14,13 +14,6 @@
 * **Frontend:** React, Next.js, TailwindCSS, TypeScript
 * **Backend:** Node.js, MongoDB, Auth0, Jest
 * **Deployment:** AWS, Github Actions, Sentry
-=======
-## Dev Toolkit
-- **Frontend:** React, Next.js, TailwindCSS, TypeScript
-- **Backend:** Node.js, MongoDB, Auth0, Jest
-- **Deployment:** AWS, Github Actions, Sentry
-main
-main
 
 ## 🚀 Featured Projects
 
@@ -34,5 +27,6 @@ main
 ---
 
 > *See you around!*
+
 
 
