@@ -5,7 +5,7 @@
 ---
 
 * 🌍  I'm based in Somalia
-* ✉️  You can contact me at [Azalaam@huss.com](mailto:dominik@wouldyoubot.com)
+* ✉️  You can contact me at [azalaamhuss@gmail.com](mailto:azalaamhuss@gmail.com)
 * 🚀  I'm currently working on [Dhado Porject Management Platform](http://404)
 * 🤝  I'm open to collaborating on Open Source Projects
 
