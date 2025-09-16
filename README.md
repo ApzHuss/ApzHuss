@@ -2,7 +2,6 @@
 
 ![banner that says APZHUSS - software engineer, content creator and community organizer alongside a cartoon illustration of APZ.](https://github.com/ApzHuss/ApzHuss/blob/main/Assets/cover.png?raw=true)
 
-apzhuss
 ---
 
 * 🌍  I'm based in Somalia
@@ -35,4 +34,5 @@ main
 ---
 
 > *See you around!*
+
 
