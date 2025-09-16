@@ -2,6 +2,7 @@
 
 ![banner that says APZHUSS - software engineer, content creator and community organizer alongside a cartoon illustration of APZ.](https://github.com/ApzHuss/ApzHuss/blob/main/Assets/cover.png?raw=true)
 
+apzhuss
 ---
 
 * 🌍  I'm based in Somalia
@@ -14,6 +15,13 @@
 * **Frontend:** React, Next.js, TailwindCSS, TypeScript
 * **Backend:** Node.js, MongoDB, Auth0, Jest
 * **Deployment:** AWS, Github Actions, Sentry
+=======
+## Dev Toolkit
+- **Frontend:** React, Next.js, TailwindCSS, TypeScript
+- **Backend:** Node.js, MongoDB, Auth0, Jest
+- **Deployment:** AWS, Github Actions, Sentry
+main
+main
 
 ## 🚀 Featured Projects
 
@@ -27,3 +35,4 @@
 ---
 
 > *See you around!*
+
