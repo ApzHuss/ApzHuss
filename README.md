@@ -2,32 +2,10 @@
 
 ![banner that says APZHUSS - software engineer, content creator and community organizer alongside a cartoon illustration of APZ.](https://github.com/ApzHuss/ApzHuss/blob/main/Assets/cover.png?raw=true)
 
----
+I'm a software engineer passionate about making open source more approachable, creating technology to elevate people, and building community.
+Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup), GraphQL, and the modern JavaScript ecosystem.
 
-* 🌍  I'm based in Somalia
-* ✉️  You can contact me at [azalaamhuss@gmail.com](mailto:azalaamhuss@gmail.com)
-* 🚀  I'm currently working on [Dhado Porject Management Platform](http://404)
-* 🤝  I'm open to collaborating on Open Source Projects
+## Find me around the web 🌎
 
-## Skills
-
-* **Frontend:** React, Next.js, TailwindCSS, TypeScript
-* **Backend:** Node.js, MongoDB, Auth0, Jest
-* **Deployment:** AWS, Github Actions, Sentry
-
-## 🚀 Featured Projects
-
-* (Highlighted repositories and open-source contributions will be showcased here.)
-
-## 📫 Let’s Connect
-
-* 🌐 **Website:** [Apzhuss.com](https://404/)
-* 💼 **LinkedIn:** [Abdisalaan H. Abdi](https://www.linkedin.com/in/abdisalaan-hussein-abdi-34057436b/)
-
----
-
-> *See you around!*
-
-
-
-
+- Learning in public on [GitHub](https://github.com/ApzHuss) or [Apzhuss.com](https://apzhuss.com) 🌐🛠️  
+- Sharing updates on [LinkedIn](https://www.linkedin.com/in/abdisalaan-hussein-abdi-34057436b/) 💼  
